@@ -21,7 +21,7 @@ To use this app, make sure you have Python installed. No external packages are r
 
 ### Installation
 
-Clone this repository and navigate into the project directory:
+Be sure to install ttkbootsrap using the following command:
 
 ```bash
 pip install ttkbootstrap
